@@ -1,6 +1,6 @@
 baseURL: https://confucianh.github.io/
 theme: pure
-title: Pure theme for Hugo
+title: 无神，亦有信仰
 defaultContentLanguage: en  # en/zh/...
 footnoteReturnLinkContents: ↩
 hasCJKLanguage: true
@@ -66,7 +66,7 @@ menu:
 params:
   since: 2020
   dateFormatToUse: "2006-01-02"
-  enablePostCopyright: true
+  enablePostCopyright: false
   # the directory under content folder that you want to render
   mainSections: ["posts"]
   # Enable/Disable menu icons
@@ -107,7 +107,7 @@ params:
           github: https://github.com/confucianh
           gitter: https://gitter.im/confucianh
           # weibo: http://weibo.com/{yourid}
-          twitter: https://twitter.com/
+          # twitter: https://twitter.com/
           # facebook: /
         solid:
           rss: /index.xml

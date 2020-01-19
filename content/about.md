@@ -1,28 +1,13 @@
 +++
 title = "About"
-description = "Hugo, the world’s fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us","about-hugo","contact"]
-author = "Hugo Authors"
+description = "儒"
+date = "2020-01-19"
+aliases = ["about-us","about-confucian","contact"]
+author = "Confucian Huo"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+这么多年，常常有各式各样的朋友谈起来中国，不乏蔑视，也不乏夸赞的。虽然充满了对中国的不了解，但是非常一致的，他们都认为中华民族是一个没有信仰的民族。很长时间，我一直很沮丧于这样的状况。慢慢的，却又有一点疑惑，没有信仰，如何能有这么长时间的传承呢？个个都是行尸走肉的活着，是没办法留存下来这么生动而又复杂的民族的。
 
-Hugo makes use of a variety of open source projects including:
+一直并没有时间细想这个问题，一直到后来，读到了猫腻的小说《将夜》。相对于崇拜昊天的道门，隐藏避世的佛教，执着而求索的书院，隐隐约约间，彷佛能解决我长期以来的这个问题。后来忽然读了王阳明，若有所悟。然而，学儒不像修禅，是没有办法顿悟的。自己做了一个这样的blog，来一点点更新自己学习的心得。
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
-
-
-
+不想在Hugo里enable comments了。想要讨论的，烦请移步[gitter](https://gitter.im/confucianh)，或者在[github repository issue list](https://github.com/confucianh/confucian/issues)里面提issue也可以。
