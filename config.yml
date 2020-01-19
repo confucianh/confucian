@@ -103,11 +103,14 @@ params:
     # Social Links
     social:
       links:
-        github: https://github.com/confucianh
-        # weibo: http://weibo.com/{yourid}
-        # twitter: https://twitter.com/
-        # facebook: /
-        rss: /index.xml
+        brand:
+          github: https://github.com/confucianh
+          gitter: https://gitter.im/confucianh
+          # weibo: http://weibo.com/{yourid}
+          twitter: https://twitter.com/
+          # facebook: /
+        solid:
+          rss: /index.xml
       link_tooltip: false # enable the social link tooltip, options: true, false
   # Site
   site:
