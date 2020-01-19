@@ -1,11 +1,7 @@
 # confucian
 
 ## TODOs
-- Fork the theme to my repo, and change submodule, which makes sure we can modify the theme for our purpose.
 - About
-    - twitter
-    - gitter(IM)
-- Theme by...
 - 第一篇文章
 - "hugo -D" problem
 
@@ -15,3 +11,6 @@
 - Author title
 - Location
 - 签名
+- Remove submodule of themes/pure, we don't need to keep it because it doesn't need to share with other repos.
+- sider
+    - social: gitter(IM) / github
